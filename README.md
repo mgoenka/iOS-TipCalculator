@@ -1,7 +1,5 @@
-tips
+iOS - Tip Calculator
 ====
-
-iOS: Tip Calculator App
 
 Hours: 4
 
